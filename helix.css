@@ -1,0 +1,72 @@
+#helix-title
+{
+	font-size:180px;
+	text-align: center;
+	font-family:
+	vt323, sans-serif;
+}
+.top-links
+{
+	text-align:center;
+	font-size:20px;
+	line-height:20px
+}
+.download-row
+{
+	padding-top:100px
+}
+.divider-text
+{
+	font-size:25px;
+	color:#777
+}
+.divider-row
+{
+	padding-top:40px;
+}
+.downloads
+{
+	padding-top:30px;
+	padding-bottom:30px;
+	font-size:25px;
+	color:#FFFFFF
+}
+.social-media
+{
+	padding-top:30px;
+	padding-bottom:30px;
+	text-align:center;
+	font-size:25px;
+}
+.specifications
+{
+	background-color:#FFFFFF;
+	padding-top:30px;
+	padding-bottom:30px;
+	text-align:center;
+	font-size:25px;
+}
+hr
+{
+	padding-0px;
+	border-color:#777;
+}
+.main-text
+{
+	font-size:30px;
+	padding-top:45px;
+}
+.bottom-text
+{
+	color:#FFFFFF;
+	text-align:center;
+	margin:auto;
+	font-size:20px;
+}
+.bottom-subtext
+{
+	color:#FFFFFF;
+	text-align:center;
+	margin:auto;
+	font-size:15px;
+}
