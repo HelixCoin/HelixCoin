@@ -5,10 +5,9 @@ An alternative cryptocurrency disrupting the already rather disrupting crypto ma
 
 Technical Information
 
-+ 250,000,000 coins
-+ 96 coins rewarded per block, halving every ~12 months
-+ minimum reward of 1 coin per block
-+ 30 second block times
++ 120,000,000 coins
++ 151 coins rewarded per block, halving every ~6 months
++ 40 second block times
 + difficulty retargeting using Kimoto Gravity Well
 
 Notable differences from Bitcoin
@@ -22,7 +21,7 @@ Notable differences from Bitcoin
 Modifications to the RPC API
 + verifymessage <helixcoinaddress> <publickey> <signature> <message>
 
-Forked from Bitcoin reference wallet 0.8.5 and Blakecoin
+Forked from Bitcoin reference wallet 0.8.5 and MaxCoin
 
 License
 ------
